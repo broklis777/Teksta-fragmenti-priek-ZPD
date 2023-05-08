@@ -30,3 +30,6 @@ fn main() {
     println!("{:?}", words); 
     println!("Nepieciešamais laiks bija {:?}", time); 
 }
+
+
+// The code was made by myself, with some improvements and help from ChatGPT
